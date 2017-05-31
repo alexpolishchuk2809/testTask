@@ -1,0 +1,8 @@
+h1, .quote {
+    text-align: center;
+}
+
+.quote {
+    margin-top: 50px;
+    font-size: 20px;
+}
